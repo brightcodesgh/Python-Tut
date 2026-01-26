@@ -22,8 +22,6 @@ print(k)
 print(" ")
 
 #Printing variables
-v= {"name" : "John", "age" : 36}
-print(type(v))
     #the right way
 t=5
 g="hello"
