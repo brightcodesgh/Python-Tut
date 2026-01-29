@@ -37,3 +37,12 @@ print(" ")
 p = "Refreshing Python"
 # print(p[2:5])
 print(p[-2:-1])
+print("  ")    
+
+#modifying string to uppercase
+print(g.upper())# we use the lower() method for lowercase
+print(" ")
+
+#removing white spaces
+l="White Spaces "
+print(l.strip())
