@@ -56,3 +56,9 @@ txt = f"the price of the itme is {price}"
 txt1= f"the price of the itme is {price:.2f}" #adding 2 zeros after the decimal point to make it more presentable
 print(txt)
 print(txt1)
+print(" ")
+
+#Adding characters in a string
+txt2 = "this is a \"bright's\" special treatment"
+print(txt2)
+print(" ")
