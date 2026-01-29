@@ -46,3 +46,4 @@ print(" ")
 #removing white spaces
 l="White Spaces "
 print(l.strip())
+print(l.replace("S", "E"))
