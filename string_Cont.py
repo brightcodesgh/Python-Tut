@@ -43,7 +43,16 @@ print("  ")
 print(g.upper())# we use the lower() method for lowercase
 print(" ")
 
-#removing white spaces
+#rAdditional modification methods
 l="White Spaces "
 print(l.strip())
 print(l.replace("S", "E"))
+print(l.split(", "))
+print(" ")
+
+#Using f-String
+price= 30
+txt = f"the price of the itme is {price}"
+txt1= f"the price of the itme is {price:.2f}" #adding 2 zeros after the decimal point to make it more presentable
+print(txt)
+print(txt1)
