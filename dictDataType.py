@@ -20,3 +20,6 @@ my_dict["gender"] = "Female"
 print(" ")
 
 print(my_dict)
+
+#returning dict items as tuples in a list 
+print(my_dict.items())
