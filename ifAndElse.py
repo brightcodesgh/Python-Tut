@@ -10,3 +10,10 @@ print("a is greater") if a>b else print("b is greater ")
 x= 350
 i=150
 print("x is lesser") if x<i else print("i is lesser") if i<x else print("they are equal")
+
+
+#turnary operation
+
+username = "wavy"
+user= username if username else "guest"
+print("Welcome ",user)
